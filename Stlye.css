@@ -1,0 +1,23 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+.header{
+    background-color: #a059b5;
+   
+   padding: 10px;   
+   display: flex; 
+  }
+  td, th {
+    border: 2px solid #000000;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #cebfeb;
+  }
+  .Head2{
+    text-align: center;
+  }
